@@ -1,3 +1,17 @@
+<h1> PROJETO REACT FAKE SHOP<h1>
+
+<img src="src/assets/slide1.jpg">
+
+<hr>
+
+## Sobre o PROJETO
+
+-O objetivo deste projeto foi arender MAIS sobre React - Redux construindo um projeto do zero. Nele procurei construir um ECOMMERCE falso usando APIs falsas. procurei aprender a biblioteca React com Redux State Management ja que estou ininiciando. 
+
+<hr>
+
+<img src="src/assets/slide2.jpg">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
