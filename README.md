@@ -6,7 +6,7 @@
 
 ## Sobre o PROJETO
 
--O objetivo deste projeto foi arender MAIS sobre React - Redux construindo um projeto do zero. Nele procurei construir um ECOMMERCE falso usando APIs falsas. procurei aprender a biblioteca React com Redux State Management ja que estou ininiciando. 
+-O objetivo deste projeto foi aprender MAIS sobre React - Redux construindo um projeto do zero. Nele procurei construir um ECOMMERCE falso usando APIs falsas. procurei aprender a biblioteca React com Redux State Management ja que estou ininiciando. 
 
 <hr>
 
